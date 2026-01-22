@@ -12,3 +12,4 @@ D:\Code\Csharp\Test1\obj\Debug\net10.0\refint\Test1.dll
 D:\Code\Csharp\Test1\obj\Debug\net10.0\Test1.pdb
 D:\Code\Csharp\Test1\obj\Debug\net10.0\Test1.genruntimeconfig.cache
 D:\Code\Csharp\Test1\obj\Debug\net10.0\ref\Test1.dll
+D:\Code\Csharp\Test1\obj\Debug\net10.0\Test1.sourcelink.json

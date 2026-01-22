@@ -29,22 +29,33 @@ internal abstract class User
     public virtual void Input()
     {
         Console.Write("Name: ");
-        Name = Console.ReadLine();
+        Name = Console.ReadLine() ?? "";
 
         Console.Write("Age: ");
         Age = Convert.ToInt32(Console.ReadLine());
 
         Console.Write("Address: ");
-        Address = Console.ReadLine();
+        Address = Console.ReadLine() ?? "";
 
-        Console.Write("Gender (1=Male, 2=Female): ");
+        Console.Write("Gender (1 = Male, 2 = Female): ");
         Gender = Convert.ToInt32(Console.ReadLine());
     }
 
     public virtual void Output()
     {
-        string genderText = Gender == 1 ? "Male" : Gender == 2 ? "Female" : "Unknown";
-        Console.WriteLine($"Name: {Name}, Age: {Age}, Gender: {genderText}, Address: {Address}");
+        string genderText = Gender switch
+        {
+            1 => "Male",
+            2 => "Female",
+            _ => "Unknown"
+        };
+
+        Console.WriteLine("================================");
+        Console.WriteLine($"Name            : {Name}");
+        Console.WriteLine($"Age             : {Age}");
+        Console.WriteLine($"Gender          : {genderText}");
+        Console.WriteLine($"Address         : {Address}");
+        Console.WriteLine($"Role Index      : {RoleSalaryIndex}");
     }
 
     public abstract double Salary();

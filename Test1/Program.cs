@@ -15,8 +15,9 @@ class Program
             Console.WriteLine("===== MENU =====");
             Console.WriteLine("1. Add Intern");
             Console.WriteLine("2. Add Fresher");
-            Console.WriteLine("3. Display All Users");
-            Console.WriteLine("4. User with Highest Salary");
+            Console.WriteLine("3. Add Senior");
+            Console.WriteLine("4. Display All Users");
+            Console.WriteLine("5. User with Highest Salary");
             Console.WriteLine("0. Exit");
             Console.Write("Your choice: ");
 
@@ -37,13 +38,19 @@ class Program
                     break;
 
                 case 3:
+                    Senior senior = new Senior();
+                    senior.Input();
+                    users.Add(senior);
+                    break;
+
+                case 4:
                     foreach (var user in users)
                     {
                         user.Output();
                     }
                     break;
 
-                case 4:
+                case 5:
                     if (users.Count > 0)
                     {
                         User max = users[0];
