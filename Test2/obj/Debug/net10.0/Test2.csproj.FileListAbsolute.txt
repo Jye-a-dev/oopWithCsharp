@@ -1,0 +1,15 @@
+D:\Code\Csharp\Test2\bin\Debug\net10.0\Test2.exe
+D:\Code\Csharp\Test2\bin\Debug\net10.0\Test2.deps.json
+D:\Code\Csharp\Test2\bin\Debug\net10.0\Test2.runtimeconfig.json
+D:\Code\Csharp\Test2\bin\Debug\net10.0\Test2.dll
+D:\Code\Csharp\Test2\bin\Debug\net10.0\Test2.pdb
+D:\Code\Csharp\Test2\obj\Debug\net10.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Csharp\Test2\obj\Debug\net10.0\Test2.AssemblyInfoInputs.cache
+D:\Code\Csharp\Test2\obj\Debug\net10.0\Test2.AssemblyInfo.cs
+D:\Code\Csharp\Test2\obj\Debug\net10.0\Test2.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\Test2\obj\Debug\net10.0\Test2.sourcelink.json
+D:\Code\Csharp\Test2\obj\Debug\net10.0\Test2.dll
+D:\Code\Csharp\Test2\obj\Debug\net10.0\refint\Test2.dll
+D:\Code\Csharp\Test2\obj\Debug\net10.0\Test2.pdb
+D:\Code\Csharp\Test2\obj\Debug\net10.0\Test2.genruntimeconfig.cache
+D:\Code\Csharp\Test2\obj\Debug\net10.0\ref\Test2.dll
