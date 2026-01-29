@@ -1,0 +1,13 @@
+[
+  {
+    "Type": "Teacher",
+    "Id": "b",
+    "Name": "b",
+    "Age": 45,
+    "GPA": null,
+    "Grade": null,
+    "Class": null,
+    "Subject": "as",
+    "BaseSalary": 1200
+  }
+]

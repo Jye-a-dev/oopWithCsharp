@@ -1,0 +1,15 @@
+D:\Code\Csharp\Test4\obj\Debug\net10.0\Test4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Csharp\Test4\obj\Debug\net10.0\Test4.AssemblyInfoInputs.cache
+D:\Code\Csharp\Test4\obj\Debug\net10.0\Test4.AssemblyInfo.cs
+D:\Code\Csharp\Test4\obj\Debug\net10.0\Test4.csproj.CoreCompileInputs.cache
+D:\Code\Csharp\Test4\obj\Debug\net10.0\Test4.sourcelink.json
+D:\Code\Csharp\Test4\bin\Debug\net10.0\Test4.exe
+D:\Code\Csharp\Test4\bin\Debug\net10.0\Test4.deps.json
+D:\Code\Csharp\Test4\bin\Debug\net10.0\Test4.runtimeconfig.json
+D:\Code\Csharp\Test4\bin\Debug\net10.0\Test4.dll
+D:\Code\Csharp\Test4\bin\Debug\net10.0\Test4.pdb
+D:\Code\Csharp\Test4\obj\Debug\net10.0\Test4.dll
+D:\Code\Csharp\Test4\obj\Debug\net10.0\refint\Test4.dll
+D:\Code\Csharp\Test4\obj\Debug\net10.0\Test4.pdb
+D:\Code\Csharp\Test4\obj\Debug\net10.0\Test4.genruntimeconfig.cache
+D:\Code\Csharp\Test4\obj\Debug\net10.0\ref\Test4.dll

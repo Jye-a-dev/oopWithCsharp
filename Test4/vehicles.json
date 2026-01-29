@@ -1,0 +1,14 @@
+[
+  {
+    "Type": "twoWheels",
+    "Id": 123,
+    "Name": "as",
+    "PlateNumber": "123",
+    "Brand": "a",
+    "IsSecondHand": true,
+    "Weight": 235,
+    "IsElectric": false,
+    "IsManualGear": true,
+    "CarType": null
+  }
+]
